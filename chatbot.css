@@ -54,3 +54,20 @@ body {
   font-weight: 600;
   letter-spacing: 0.04em;
 }
+.input {
+  width: 100%;
+  height: 79px;
+  overflow: hidden;
+}
+.input input {
+  width: 100%;
+  height: 79px;
+  outline: none;
+  border: none;
+  padding-left: 30px;
+  padding-top: 0;
+  font-family: cursive;
+  color: #fff;
+  font-size: 30px;
+  background: #090e11;
+}
